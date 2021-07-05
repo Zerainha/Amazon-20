@@ -1,28 +1,44 @@
-# Installation Steps
+# FBclone
+Este projeto desenvolvido com ReactJS é um clone demo do Amazon.
 
+## Layout
+![HomePage](https://github.com/Zerainha/assets/blob/main/imgsAmzn20Clone/HomePage%20(2).png) ![CheckoutPage](https://github.com/Zerainha/assets/blob/main/imgsAmzn20Clone/CheckoutPage%20(3).png) ![CheckoutPage2](https://github.com/Zerainha/assets/blob/main/imgsAmzn20Clone/CheckoutPage2%20(2).png) ![StripePayment](https://github.com/Zerainha/assets/blob/main/imgsAmzn20Clone/PaymentStripe%20(2).png) ![StripePayment2](https://github.com/Zerainha/assets/blob/main/imgsAmzn20Clone/PaymentStripe2%20(2).png) ![StripePayment3](https://github.com/Zerainha/assets/blob/main/imgsAmzn20Clone/PaymentStripe3%20(2).png) ![SuccessPayment](https://github.com/Zerainha/assets/blob/main/imgsAmzn20Clone/SuccessPaymentPage%20(2).png) ![OrdersList](https://github.com/Zerainha/assets/blob/main/imgsAmzn20Clone/OrdersListPage%20(2).png)
 
+# Tecnologias utilizadas
+## Front-end
+- ReactJS
+- Javascript
+- HTML
+- TailwindCSS
 
-## Using npm
+## Back-end
+- NextJS
+- Javascript
+- Firebase
+- Redux
+- Stripe
 
-Run commands
+# Como executar o projeto
+Pré-requisito:
+- NodeJS -> https://nodejs.org/en/
 
-1) ```npm install```
+```bash
+# clonar o repositório
+git clone https://github.com/Zerainha/Amazon-20
 
+# entrar na pasta do projeto
+cd Amazon-20
 
-2) ```npm run dev```
+# executar a instalação dos pacotes/dependências com o yarn ou npm
+## Yarn
+yarn install
 
+## Npm
+npm install
 
-## Or using yarn
+# executar o projeto
+yarn dev ou npm run dev
+```
 
-Run commands 
-
-1) ```npm install --global yarn```
-
-2) ```yarn install```
-
-3) ```yarn run dev```
-
-
-### If you see the window below then you are set to build AMAZON 2.0!
-
-![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
+# Autor
+Breno Leirião Neto
