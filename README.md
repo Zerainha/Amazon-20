@@ -1,4 +1,4 @@
-# FBclone
+# Amazon-20 Clone
 Este projeto desenvolvido com ReactJS é um clone demo do Amazon.
 
 ## Layout
@@ -21,6 +21,7 @@ Este projeto desenvolvido com ReactJS é um clone demo do Amazon.
 # Como executar o projeto
 Pré-requisito:
 - NodeJS -> https://nodejs.org/en/
+- Stripe -> https://stripe.com/br
 
 ```bash
 # clonar o repositório
